@@ -1,0 +1,10 @@
+
+
+
+.container{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(18, 89, 151);
+  justify-content: space-around;
+}

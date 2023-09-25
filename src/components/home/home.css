@@ -1,0 +1,24 @@
+
+.homeContainer{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.homeCard{
+    display: flex;
+    padding: 20px;
+    background-color: rgb(238, 250, 246);
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    align-items: center;
+}
+
+.cardImg{
+    width: 100px;
+    height: 100px;
+    border-radius: 999px;
+    margin: 10px;
+}

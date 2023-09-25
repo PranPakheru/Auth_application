@@ -1,0 +1,49 @@
+
+.signInArea{
+    display: flex;
+    width: 70%;
+    height: auto;
+    background-color: rgb(9, 120, 172);
+    justify-content: space-around;
+    display: inline;
+}
+
+.fields{
+    display: flex;
+    width: 90%;
+    height: auto;
+    margin-top: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    display: inline;
+    margin-left: 50px;
+}
+
+input{
+    display: inline;
+    margin-left: 10px;
+    background: transparent;
+    background-color: rgb(230, 230, 132);
+    width: 50vw;
+    height: 20px;
+}
+
+button{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+button:hover{
+    background-color: rgb(35, 35, 221);
+    font-weight: 300;
+}
+
+.route{
+    color: blanchedalmond;
+    margin: 10px 10px;
+}
